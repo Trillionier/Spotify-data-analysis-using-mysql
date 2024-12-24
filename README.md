@@ -1,1 +1,1 @@
-Did analysis of the spotify top albums data using subqueries, windows functions and cte's in mysql.
+This project showcases the analysis of a Spotify dataset using MySQL. Key SQL concepts such as window functions, subqueries, and joins were utilized to extract meaningful insights. The analysis includes identifying popular tracks, top artists, genre trends, and album performance metrics. The project highlights advanced SQL techniques to manage and explore large datasets efficiently.
